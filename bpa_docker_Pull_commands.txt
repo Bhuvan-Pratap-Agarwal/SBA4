@@ -1,0 +1,2 @@
+docker pull hardlyhuman/bpa-product-description
+docker pull hardlyhuman/bpa-product-service
